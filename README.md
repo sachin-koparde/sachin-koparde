@@ -3,7 +3,7 @@
 <p><em>Graduated from <a href="http://www.vtu.ac.in">Visvesvaraya Technological University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.tietoevry.com">TietoEVRY</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: sachin-koparde](https://img.shields.io/badge/-sachin--koparde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin-koparde/)](https://www.linkedin.com/in/sachin-koparde/)
+[![Linkedin: sachinkoparde](https://img.shields.io/badge/-sachin--koparde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkoparde/)](https://www.linkedin.com/in/sachinkoparde/)
 [![GitHub sachin-koparde](https://img.shields.io/github/followers/sachin-koparde?label=follow&style=social)](https://github.com/sachin-koparde)
 
 ## &#x1f4c8; GitHub Stats
