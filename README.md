@@ -9,9 +9,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/sachin-koparde/sachin-koparde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-koparde&show_icons=true&theme=merko&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Sachin's GitHub Stats" />
+  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-koparde&layout=compact&show_icons=true&line_height=24&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Sachin's GitHub Stats"></img></div>
+
+  <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-koparde&show_icons=true&theme=tokyonight&line_height=24&count_private=true&bg_color=22272e" alt="Sachin's GitHub Stats"/> </div>
 </a>
 
-<a href="https://github.com/sachin-koparde/sachin-koparde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-koparde&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Sachin's GitHub Stats" />
-</a>
+
